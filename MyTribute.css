@@ -1,0 +1,8 @@
+body{
+  padding: 2px;
+  margin: 2px;
+  background-color: #B0E5F7;
+}
+#main{
+  border: 2px solid orange;
+}
